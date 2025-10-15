@@ -1,42 +1,44 @@
-👋 Hi, I’m Agon4413
-💻 Passionate Young Developer | Student at J-coders Academy
+![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
-Welcome to my GitHub profile!
-I’m a 12-year-old programmer from Kosovo, building fun and creative projects using HTML, CSS, and JavaScript. I’ve been coding for around 5 years, and I love turning ideas into real web experiences.
+![Divider](https://vaxerski.xyz/github/aboutme2.gif)
+Hey there! I'm **Agon**, a 12-year-old **frontend web developer** and student at **J-coders Academy** from **Kosovo**.  
+I’ve been coding for around **5 years**, starting from curiosity and growing into a passion for creating beautiful and interactive web experiences.  
 
-🚀 About Me
+When I’m not coding, I enjoy exploring design ideas, playing games, and learning new web technologies.  
+That’s me in a nutshell! <br/><br/>
 
-🧠 Currently learning full-stack web development
+---
 
-🏫 Student at J-coders Academy
+![Divider](https://vaxerski.xyz/github/repos1.gif)
+**Mini Games 🎮** [ uf ] — A collection of fun browser-based games built from scratch.<br/><br/>
+**Portfolio Website 💼** [ m ] — My personal portfolio site to show all my coding projects and progress.<br/><br/>
+**School Helper ✏️** [ s ] — A small tool made to help students manage lessons and assignments easily.<br/><br/>
+*Just a few of my favorite works so far...*<br/><br/>
 
-🌍 From Kosovo
+*f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
 
-⚡ Started coding at a young age and never stopped
+---
 
-🎨 Love mixing design and code to make creative web projects
+![Divider](https://vaxerski.xyz/github/repos2.gif)
+There’s still a lot more I’m building — every project helps me grow as a developer and creator.<br/><br/>
+---
 
-🛠️ Technologies & Tools
+### 🧠 Tech Stack  
 
-Languages: JavaScript, HTML, CSS
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,react,figma" alt="Tech Stack Icons" />
+</div>
 
-Tools: VS Code, Git, GitHub
+---
 
-Interests: Frontend development, creative design, and learning new frameworks
+### 🌍 Connect with Me  
+💬 GitHub: [@Agon4413](https://github.com/Agon4413)  
+📍 From: Kosovo  
+🎓 Learning at: J-coders Academy  
 
-🌟 Featured Project
-Helooo 🌐
+---
 
-A web-based project showcasing creativity and coding skills built with HTML, CSS, and JavaScript.
+![Footer](https://vaxerski.xyz/github/BottomGif.gif)
 
-“Built with passion, curiosity, and a love for coding.”
+✨ *"Code with creativity, learn with passion."*  
 
-📫 Contact Me
-
-💬 Feel free to connect or ask me anything about my projects!
-
-GitHub: @Agon4413
-
-🌍 Location: Kosovo
-
-✨ "Code is not just logic — it’s creativity in motion."
