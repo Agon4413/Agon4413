@@ -1,7 +1,7 @@
 ![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
-Hey there! I'm **Agon**, a 12-year-old **frontend web developer** and student at **J-coders Academy** from **Kosovo**.  
+Hey there! I'm **Agon**, a 12-year-old **backend web developer** and student at **J-coders Academy** from **Kosovo**.  
 I’ve been coding for around **5 years**, starting from curiosity and growing into a passion for creating beautiful and interactive web experiences.  
 
 When I’m not coding, I enjoy exploring design ideas, playing games, and learning new web technologies.  
